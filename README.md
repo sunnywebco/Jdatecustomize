@@ -14,13 +14,15 @@
 <code>
   irtime();
 </code>
+<br>
 <code>
   jdate("Y/m/d", 'زمان شما که می خواهید تبدیل شود به جلالی');
 </code>
+<br>
 <code>
   jmaketime(0,0,0,jdate("m"),1,jdate("Y"));
 </code>
-</code>
+<br>
 # Contacts
 <ul>
 <li>   Author      :   تیم برنامه نویسی سانی وب
