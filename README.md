@@ -8,13 +8,18 @@
 سعی شده تمام توابع مورد نیاز به صورت فانکشن برای برنامه نویسان قرار داده شود تا بتوانند به صورت احتصاصی برروی زمان به صورت جلالی مدیریت داشته باشند 
  <h5>روش استفاده</h5> 
   <br>
-  <code>// include_once 'jdatecu.php';</code>
+  <code>include_once 'jdatecu.php';</code>
   <br>
   <h5>توابع به همراه نمونه</h5>
 <code>
   irtime();
+</code>
+<code>
   jdate("Y/m/d", 'زمان شما که می خواهید تبدیل شود به جلالی');
+</code>
+<code>
   jmaketime(0,0,0,jdate("m"),1,jdate("Y"));
+</code>
 </code>
 # Contacts
 <ul>
