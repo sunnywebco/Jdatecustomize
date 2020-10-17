@@ -23,8 +23,6 @@
   jmaketime(0,0,0,jdate("m"),1,jdate("Y"));
 </code>
 <br>
-
-<br>
 <code>
  mstart($month, $day, $year);
 </code>
