@@ -23,6 +23,63 @@
   jmaketime(0,0,0,jdate("m"),1,jdate("Y"));
 </code>
 <br>
+
+<br>
+<code>
+ mstart($month, $day, $year);
+</code>
+
+<br>
+<code>
+lastday($month, $day, $year);
+</code>
+
+<br>
+<code>
+days_of_year($jmonth, $jday, $jyear);
+</code>
+
+<br>
+<code>
+monthnumber($month);
+</code>
+
+<br>
+<code>
+Num2Fa($srting);
+</code>
+
+<br>
+<code>
+is_kabise($year);
+</code>
+
+<br>
+<code>
+jcheckdate($month, $day, $year);
+</code>
+
+<br>
+<code>
+jtime();
+</code>
+
+<br>
+<code>
+jgetdate($timestamp = "");
+</code>
+
+
+<br>
+<code>
+gregorian_to_jalali($g_y, $g_m, $g_d);
+</code>
+
+<br>
+<code>
+jalali_to_gregorian($j_y, $j_m, $j_d);
+</code>
+
 # Contacts
 <ul>
 <li>   Author      :   تیم برنامه نویسی سانی وب
