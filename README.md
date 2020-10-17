@@ -33,42 +33,34 @@
 <code>
 lastday($month, $day, $year);
 </code>
-
 <br>
 <code>
 days_of_year($jmonth, $jday, $jyear);
 </code>
-
 <br>
 <code>
 monthnumber($month);
 </code>
-
 <br>
 <code>
 Num2Fa($srting);
 </code>
-
 <br>
 <code>
 is_kabise($year);
 </code>
-
 <br>
 <code>
 jcheckdate($month, $day, $year);
 </code>
-
 <br>
 <code>
 jtime();
 </code>
-
 <br>
 <code>
 jgetdate($timestamp = "");
 </code>
-
 
 <br>
 <code>
